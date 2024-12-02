@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "972431477615",
+    "project_id": "ease-interview-pdehz5",
+    "storage_bucket": "ease-interview-pdehz5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972431477615:android:d403c8839723b1f1ec369a",
+        "android_client_info": {
+          "package_name": "com.aira.easeinterview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972431477615-j4cpu48itumlpq14m13ltg6uis8akut9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJN1eVzpmWn-QFu7t17SFWF5SXbbUZCeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972431477615-j4cpu48itumlpq14m13ltg6uis8akut9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972431477615-vb2ncfkig87omved6e1j51n30bf7cs9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aira.easeinterview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
